@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@esm/index.mjs';
+import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@v0.2.1-esm/index.mjs';
 ```
 
 #### filledndBy( shape, clbk\[, thisArg] )
@@ -120,7 +120,7 @@ var cnt = ctx.count;
 <script type="module">
 
 import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@esm/index.mjs';
-import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@esm/index.mjs';
+import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@v0.2.1-esm/index.mjs';
 
 var out = filledndBy( [ 1, 3 ], constantFunction( 0.0 ) );
 // returns [ [ 0.0, 0.0, 0.0 ] ]
