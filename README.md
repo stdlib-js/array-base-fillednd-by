@@ -167,6 +167,12 @@ out = filledndBy( [ 1, 1, 1, 3 ], constantFunction( void 0 ) );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-base/fillednd`][@stdlib/array/base/fillednd]</span><span class="delimiter">: </span><span class="description">create a filled n-dimensional nested array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -242,6 +248,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-fillednd-by/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-fillednd-by/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/base/fillednd]: https://github.com/stdlib-js/array-base-fillednd
+
+<!-- </related-links> -->
 
 </section>
 
