@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-18)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1c5a33e`](https://github.com/stdlib-js/stdlib/commit/1c5a33ead802b48aa8b7eab6d816923df6ce8aa9) - **bench:** refactor to use string interpolation in `array/base/fillednd-by` [(#10334)](https://github.com/stdlib-js/stdlib/pull/10334) _(by Rohit R Bhat)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Rohit R Bhat
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
